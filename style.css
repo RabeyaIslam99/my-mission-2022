@@ -1,0 +1,77 @@
+.mission{
+    display: flex;
+}
+.mission-plan
+{
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Vidaloka', serif;
+        font-size: 25px;
+        
+        border-left: 4px solid #b33939;
+        border-radius: 5px;
+        margin-left: 8%;
+        margin-top: 10%;
+        padding-left: 1%;
+        font-size: 35px;
+        width: 50%;
+       
+
+}
+.mission-plan-color{
+    color: lightsalmon;
+}
+.mission-plan-paragrph{
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   margin-left: 8%;
+   margin-right: 7%;
+}
+.mission-img{
+  width: 60%;
+  padding-top: 10%;
+    
+}
+.mission-button{
+    text-decoration: none;
+    margin-left: 8%;
+   background-image: linear-gradient(#ff884d, #ffbb99);
+   padding: 1%;
+   color: whitesmoke;
+   font-weight: bold;
+   border-radius: 4px;
+}
+#mission-close{
+    margin-left: 8%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-top: 2%;
+}
+.plan-head{
+    text-align: center;
+    margin-top: 8%;
+        font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Secular One', sans-serif;
+    font-family: 'Vidaloka', serif;
+   font-size: 30px;
+}
+#plan-color{
+    color: lightsalmon;
+}
+.plan{
+    display: flex;
+}
+.target-image{
+    width: 30%;
+    margin-left: 10%;
+}
+.work-image{
+    width: 30%;
+    margin-left: 10%;
+}
+.aim-image{
+    width: 30%;
+    margin-left: 10%;
+}
+}
