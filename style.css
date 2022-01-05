@@ -10,7 +10,7 @@
         font-size: 25px;
         
         border-left: 4px solid #b33939;
-        border-radius: 5px;
+        border-radius: 3px;
         margin-left: 8%;
         margin-top: 10%;
         padding-left: 1%;
@@ -62,16 +62,42 @@
 .plan{
     display: flex;
 }
+.target{
+    margin-left: 10%;
+    background-color:   #ffccff;
+    border-radius: 25px;
+    padding-left: 2%;
+    padding-bottom: 2%;
+    padding-right: 2%; 
+    width: 25%;
+}
 .target-image{
     width: 30%;
-    margin-left: 10%;
+    margin-left: 2%;
+    padding-top: 2%;
+}
+.work{
+    width: 25%;
+    background-color: #ffccb3;
+    margin-left: 2%;
+    margin-right: 2%;
+    border-radius: 25px;
+    padding-left: 2%;
 }
 .work-image{
     width: 30%;
-    margin-left: 10%;
+    margin-left: 2%;
+    padding-top: 2%;
+}
+.aim{
+    background-color: #e6ffee;
+    border-radius: 20px;
+    padding-left: 2%;
+    width: 25%;
+    margin-right: 2%;
 }
 .aim-image{
     width: 30%;
-    margin-left: 10%;
-}
+    margin-left: 2%;
+    padding-top: 2%;
 }
