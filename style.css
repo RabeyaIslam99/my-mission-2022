@@ -41,6 +41,7 @@
    color: whitesmoke;
    font-weight: bold;
    border-radius: 4px;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 #mission-close{
     margin-left: 8%;
@@ -50,12 +51,12 @@
 .plan-head{
     text-align: center;
     margin-top: 8%;
-        font-family: 'Open Sans', sans-serif;
-    font-family: 'Poppins', sans-serif;
-    font-family: 'Roboto', sans-serif;
-    font-family: 'Secular One', sans-serif;
-    font-family: 'Vidaloka', serif;
-   font-size: 30px;
+   font-family: 'Open Sans', sans-serif;
+   font-family: 'Poppins', sans-serif;
+   font-family: 'Roboto', sans-serif;
+   font-family: 'Secular One', sans-serif;
+  font-family: 'Vidaloka', serif;
+     font-size: 30px;
 }
 #plan-color{
     color: lightsalmon;
@@ -138,16 +139,71 @@
 }
 .develop-paragraph{
     margin-right: 15%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 8%;
+    margin-right: 10%;
+    font-size: 20px;
 
 }
 .develop-button{
 
     text-decoration: none;
-    margin-left: 8%;
-   background-image: linear-gradient(#ff884d, #ffbb99);
-   padding: 1%;
-   color: whitesmoke;
-   font-weight: bold;
-   border-radius: 4px;
-   padd
+  
+    background-image: linear-gradient(#ff884d, #ffbb99);
+    padding: 2%;
+    color: whitesmoke;
+    font-weight: bold;
+    border-radius: 4px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+  
+}
+.footer-main{
+    background-color: black;
+    height: 120px;
+    text-align: center;
+    padding-top: 2%;
+    margin-top: 9%;
+}
+.footer-title{
+    color: white;
+    font-family: 'Oleo Script', cursive;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Secular One', sans-serif;
+    font-family: 'Vidaloka', serif;
+    }
+.footer-color{
+    color: sandybrown;
+}
+.footer-paragraph{
+    color: white;
+}
+.Knowladge{
+    display: flex;
+    padding-top: 8%;
+}
+.knowladge-img{
+    width: 250%;
+    
+}
+.Knowladge-paragraph{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 10%;
+    font-size: 20px;
+    margin-right: 8%;
+
+}
+.Knowladge-button{
+    text-decoration: none;
+  
+    background-image: linear-gradient(#ff884d, #ffbb99);
+    padding: 2%;
+    color: whitesmoke;
+    font-weight: bold;
+    border-radius: 4px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+
 }
