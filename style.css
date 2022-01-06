@@ -213,3 +213,50 @@
    margin-right: 50%;
    padding-top: 95%;
 }
+.contact{
+    display: flex;
+    margin-left: 20%;
+    padding-top: 10%;
+
+}
+.contact-info{
+    margin-left: 9%;
+    margin-right: 15%;
+    margin-top: 5%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bolder;
+    color: blue;
+}
+.contact-form{
+  
+    margin-left: 15%;
+    box-shadow: 15px 15px 10px gray;
+    padding: 5%;
+    border-left: 3px solid grey;
+    border-radius: 8px;
+}
+#contact-color{
+    color: salmon;
+
+}
+.contact-button{
+
+    text-decoration: none;
+  
+    background-image: linear-gradient(#ff884d, #ffbb99);
+    padding: 2%;
+    color: black;
+    font-weight: bold;
+    border-radius: 4px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.contact-title{
+    text-align: center;
+    margin-top: 8%;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Secular One', sans-serif;
+   font-family: 'Vidaloka', serif;
+      font-size: 40px;
+}
